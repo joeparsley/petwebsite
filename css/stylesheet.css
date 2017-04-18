@@ -1,0 +1,26 @@
+h1 {
+  font-family: sans-serif;
+  color: purple;
+  background-color: yellow;
+}
+
+h2 {
+color: purple;
+font-family: sans-serif;
+background-color: yellow;
+text-indent: 5px;
+}
+
+ul {
+  color: blue;
+  background-color: green;
+}
+
+li{
+  color: red;
+  background-color: yellow;
+}
+
+body{
+background-color: green;
+}
